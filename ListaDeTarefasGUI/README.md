@@ -6,8 +6,18 @@ Com este aplicativo, os usuários podem adicionar, remover, listar tarefas e sai
 Funcionalidades:
 
 Adicionar Tarefa: Os usuários podem adicionar novas tarefas clicando no botão "Adicionar". Cada tarefa é numerada automaticamente.
+
+![Tela1](https://github.com/mattdias2/Linguagem_Programacao/assets/114191365/ed2a9dc1-e862-4c6f-ae27-5449b3efe993)
+
 Remover Tarefa: As tarefas podem ser removidas selecionando uma da lista e clicando no botão "Remover Tarefa".
+
+![Tela3](https://github.com/mattdias2/Linguagem_Programacao/assets/114191365/eb8d419e-3d5a-4ef4-ac5c-4a2933199258)
+
 Listar Tarefas: As tarefas existentes podem ser visualizadas clicando no botão "Listar Tarefas".
+
+![Tela4](https://github.com/mattdias2/Linguagem_Programacao/assets/114191365/574f2fb0-3a82-4015-8756-ea8f09e59dc9)
+
+
 Sair: Os usuários podem fechar o aplicativo clicando no botão "Sair".
 Estrutura do Código
 ListaDeTarefasGUI Classe Principal: Esta classe contém a lógica principal do aplicativo. Ela cria a interface gráfica, gerencia eventos de botões e manipula a lista de tarefas.
